@@ -1,14 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Tomorrow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grandstander:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root{
-  --text-color: #ffffff;
-  --card-front-color: #09683d;
-  --card-back-color: #15AE68;
+  --text-color: #3808e7;
+  --card-front-color: #c87ff1;
+  --card-back-color: #5015ae;
 }
 
 body {
-  background: url(img/bg-desktop-green.webp);
-  font-family: Tomorrow;
+  background: url('img/bg-desktop-blue.webp');
+  font-family: Grandstander;
 }
 
 .cartao__conteudo {
